@@ -46,6 +46,12 @@ const allPrettierVersions = await Promise.all([
   import("prettier-3.9.4"),
   import("prettier-3.9.5"),
   import("prettier-3.9.6"),
+  import("prettier-3.9.7"),
+  import("prettier-3.9.8"),
+  import("prettier-3.9.9"),
+  import("prettier-3.9.10"),
+  import("prettier-3.10.0"),
+  import("prettier-3.10.1"),
 ]);
 
 /**
